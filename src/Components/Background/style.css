@@ -1,0 +1,19 @@
+.back-container{
+    width:100vw;
+    height:100vh;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.color-box{
+    width:400px;
+    height:250px;
+    border:2px black solid;
+    flex-direction: column;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
